@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809818046872",
+    "project_id": "walmart-inventory-database",
+    "storage_bucket": "walmart-inventory-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809818046872:android:e3d63424f1c7dc70cfebed",
+        "android_client_info": {
+          "package_name": "com.example.policeinventory"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5X223dkC45KXikjbtjUlWfqtVow74rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
